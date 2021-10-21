@@ -1,0 +1,1 @@
+Awesome, you cron example nomad pack has been deployed
